@@ -1,0 +1,23 @@
+{
+  "name": "horondi_merge_images",
+  "version": "1.0.0",
+  "description": "Function for images merging",
+  "main": "merge_images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ita-social-projects/horondi_merge_images.git"
+  },
+  "keywords": [
+    "images",
+    "merge"
+  ],
+  "author": "SoftServe Horondi team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ita-social-projects/horondi_merge_images/issues"
+  },
+  "homepage": "https://github.com/ita-social-projects/horondi_merge_images#readme"
+}
